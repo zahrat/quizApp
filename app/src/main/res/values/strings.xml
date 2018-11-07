@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">quiz</string>
+    <string-array name="sessions">
+        <item>session 1</item>
+        <item>session 2</item>
+        <item>session 3</item>
+    </string-array>
+    <string name="showAnswers">Show Answers</string>
+    <string name="Continue">Continue</string>
+</resources>
